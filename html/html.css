@@ -1,0 +1,14 @@
+nav a{
+    color: sienna;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+body{
+    background-image: url("img/html.png");
+    background-repeat: no-repeat;
+    background-size: 700px;
+    background-position: top ;
+}

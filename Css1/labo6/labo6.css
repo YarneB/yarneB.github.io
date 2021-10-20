@@ -1,0 +1,14 @@
+nav a{
+    color: sienna;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+body{
+    background-image: url("img/lab6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
