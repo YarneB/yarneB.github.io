@@ -1,0 +1,38 @@
+*{
+    font-family: verdana;
+}
+
+body {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    background-image: url("../img/header.jpg");
+    color: white;
+    height: 135px;
+}
+nav{
+    background-color: #444444;
+}
+
+nav a{
+    color: lime;
+}
+
+article{
+    background-color: #d4cfcf;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-top:0px;
+}
+
+.na{
+    text-decoration: underline;
+}
+
+.nat{
+    font-size: xxx-large;
+}
+
