@@ -1,0 +1,79 @@
+.coctail{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+
+}
+
+body{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:1.2em;
+    font-family: Verdana;
+
+}
+
+h1{
+    color: #007e7e;
+    font-size: 150%;
+}
+
+h2{
+    color: #007e7e;
+    font-size: 130%;
+}
+
+.lemon{
+    color: lime;
+}
+
+.black{
+    color: cadetblue;
+}
+
+.chai{
+    color: chocolate;
+}
+
+footer{
+    font-size: 50%;
+    text-align: center;
+
+}
+
+.a{
+    background-color: brown;
+}
+.a:hover {
+    background-color: yellow;
+}
+
+#guarantee{
+    margin: 30px;
+    padding: 20px;
+    color:#444444;
+    background-color: #a7cece;
+    border: 5px dotted white;
+    background-image: url("images/background.gif");
+    background-repeat: no-repeat;
+    background-position: left top;
+
+}
+
+.week{
+    float:right;
+    width: 25%;
+    text-align: center;
+    border: 1px darkslategrey solid;
+    background-image: url("images/cocktail.gif");
+    background-repeat: repeat-x;
+    background-size: 45px;
+
+}
+
+.t{
+    width: 70%;
+
+}
